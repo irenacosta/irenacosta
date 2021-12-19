@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Irena Costa!
 - 🔭 Hoje trabalho com ...
 - 🌱 Estudando WebDev Full Stack.
-- 📫 How to reach me: irena.costa@gmail.com
+- 📫 Para entrar em contato: irena.costa@gmail.com
 - 😄 Pronomes: Ela/Dela
 
 <div>
