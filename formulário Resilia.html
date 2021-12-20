@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resilia - Inscreva-se agora para nossa próxima turma :)</title>
+
+    <style>
+
+body.center-form {
+    min-height: 100vh;
+  }
+
+  div.center-form {
+    position: relative;
+    min-height: 100vh;
+  }
+
+  div.center-form > form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+  }
+
+.formulario{
+    width: 400px;
+    padding: 30px;
+    border:1px solid rgb(252, 185, 3);
+    background-color: black;
+    color: rgb(242, 185, 3);
+    align-self: center;
+
+}
+.formulario p{
+    width: 100%;
+    font-size: 20px;
+    color: solid rgb(242, 185, 3);
+    
+}
+.field{
+    width: 100%;
+    margin: 15px 0;
+}
+.field label, 
+.field span{
+    padding-left: 10px;
+    font-size: 1.1em;
+    display: block;
+    width: 100%;
+}
+.radiobox label{
+    width: auto;
+    display: inline-block;
+}
+input[type=text],
+input[type=email],
+textarea{
+    width: 100%;
+    padding-left: 10px;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 15px;
+    border: 1px solid rgb(252, 185, 3);
+    outline: none;
+}
+input#nao{
+    margin-left: 30px;
+}
+textarea{
+    line-height: 20px;
+    padding: 10px;
+    height: 90px;
+    resize: none;
+}
+input[type=submit]{
+    display: block;
+    background-color: rgb(252, 185, 3);
+    height: 35px;
+    border: none;
+    outline: 0;
+    cursor: pointer;
+    width: 100px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 15px;
+}
+P { text-align: center }
+h1 { text-align: center }
+
+div.form
+{
+    display: block;
+    text-align: center;
+}
+form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    align-content: center;
+}
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: solid rgb(242, 185, 3);
+}
+
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: solid rgb(242, 185, 3);
+}
+
+h2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: solid rgb(242, 185, 3);
+}
+
+body{
+    background-color: #6667ab;
+}
+    </style>
+</head>
+<body>
+    
+<body class="center-form">
+<div class="center-form">
+    <form class="formulario" method="post"> 
+        <h1> R e s i l i a</h1><br>
+        <h2>Formação WebDev Resilia</h2><br>
+        <p>O último processo se encerrou :/ Mas coloque seus dados
+           que te avisaremos em primeira mão quando as novas turmas abrirem ok?</p><br>
+        
+        <div class="field">
+            <label for="nome">Nome completo:</label>
+            <input type="text" id="nome" name="nome" placeholder="Digite seu nome*" required>
+        </div>
+        
+        <div class="field">
+            <label for="telefone">Telefone:</label>
+            <input type="text" id="telefone" name="telefone" placeholder="Digite seu Telefone">
+        </div>
+
+        <div class="field">
+            <label for="email">E-Mail:</label>
+            <input type="email" id="email" name="email" placeholder="Digite seu E-Mail*" required>
+        </div>        
+        <div class="field">
+            <label for="data de nascimento">Data de nascimento</label>
+            <input type="date" name="nascimento">
+        </div>
+
+        <input type="submit" name="acao" value="Enviar">
+    
+        <div id="parent">
+            
+        </div>
+        
+    </form>
+
+    
+</body>
+</html>
