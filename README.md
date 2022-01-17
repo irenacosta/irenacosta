@@ -1,8 +1,9 @@
 ### Olá! Eu sou a Irena Costa!
-- 🔭 Hoje trabalho com leitura crítica de originais literários.
-- 🌱 Estudando WebDev Full Stack.
-- 📫 Para entrar em contato: irena.costa@gmail.com
-- 😄 Pronomes: Ela/Dela
+- 🔭 Interessada em Desenvolvimento Web Full-Stack
+- 🌱 Projeto em andamento: Jogo Gnarus
+- 🌱 Estudando CSS3 e Javascript
+- 📫 E-mail: irena.costa@gmail.com
+ 
 
 <div>
   <a href="https://irenacosta.github.io">
