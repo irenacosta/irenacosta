@@ -1,8 +1,12 @@
 ### Olá! Eu sou a Irena Costa!
 - 🔭 Interessada em Desenvolvimento Web Full-Stack
-- 🌱 Projeto em andamento: Jogo Gnarus
-- 🌱 Estudando CSS3 e Javascript
-- 📫 E-mail: irena.costa@gmail.com
+- 💻 Projeto em andamento: expansão do Jogo Gnarus
+- 📖 Atualmente estou estudando HTML, CSS3 e Javascript
+- 📫 Para falar comigo: <a href = "mailto:irena.costa@gmail.com">irena.costa@gmail.com</a>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/irenacosta)](https://github.com/irenacosta)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irena-costa/)](https://www.linkedin.com/in/irena-costa/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/irenaolivcosta)](https://twitter.com/fagnerpsantos)
  
 
 <div>
@@ -23,9 +27,6 @@
   
   ##
  
-<div> 
-  <a href="https://instagram.com/irenacosta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:irena.costa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/irena-costa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<div>
+ 	
 </div>
