@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Irena Costa!
 - 🔭 Interessada em Desenvolvimento Web Full-Stack
-- 💻 Projeto em andamento: aplicação para cifragem e decifragem de base64 e Cifra de César 
+- 💻 Projeto em andamento: aplicação para cifrar e decifrar mensagens escritas em base64 e Cifra de César 
 - 📖 Atualmente estou estudando DOM e OOP (Javascript)
 - 📫 Para falar comigo: <a href = "mailto:irena.costa@gmail.com">irena.costa@gmail.com</a>
 
