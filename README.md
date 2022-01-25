@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Irena Costa!
 - 🔭 Interessada em Desenvolvimento Web Full-Stack
-- 💻 Projeto em andamento: expansão do Jogo Gnarus
-- 📖 Atualmente estou estudando HTML, CSS3 e Javascript
+- 💻 Projeto em andamento: aplicação para cifragem e decifragem de base64 e Cifra de César 
+- 📖 Atualmente estou estudando DOM e OOP (Javascript)
 - 📫 Para falar comigo: <a href = "mailto:irena.costa@gmail.com">irena.costa@gmail.com</a>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/irenacosta)](https://github.com/irenacosta)
