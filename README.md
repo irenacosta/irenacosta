@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Irena Costa!
 - 🔭 Interessada em Desenvolvimento Web Full-Stack
-- 💻 Projeto em andamento: aplicação para cifrar e decifrar mensagens escritas em base64 e Cifra de César 
+- 💻 Projeto em andamento: expansão do conceitual e da interface do jogo GNARUS (ver repositório GNARUS) 
 - 📖 Atualmente estou estudando DOM e OOP (Javascript)
 - 📫 Para falar comigo: <a href = "mailto:irena.costa@gmail.com">irena.costa@gmail.com</a>
 
