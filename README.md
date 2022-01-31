@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Irena Costa!
 - 🔭 Interessada em Desenvolvimento Web Full-Stack
 - 💻 Projeto em andamento: expansão do conceitual e da interface do jogo GNARUS (ver repositório GNARUS) 
-- 📖 Atualmente estou estudando DOM e OOP (Javascript)
+- 📖 Atualmente estou estudando DOM, OOP, API e jQuery (Javascript).
 - 📫 Para falar comigo: <a href = "mailto:irena.costa@gmail.com">irena.costa@gmail.com</a>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/irenacosta)](https://github.com/irenacosta)
