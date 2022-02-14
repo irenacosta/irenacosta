@@ -1,7 +1,8 @@
 ### Olá! Eu sou a Irena Costa!
 - 📖 Desenvolvedora Full Stack em formação.
 - 🔭 Interessada em Java Microservices.
-- 💻 Projeto em andamento: expansão do conceitual e da interface do jogo GNARUS (ver repositório GNARUS) 
+- 💻 Projeto front-end em andamento: expansão do conceitual e da interface do jogo GNARUS (ver repositório GNARUS)
+- 💻 Projeto back-end em andamento: em breve
 - 📫 Para falar comigo: <a href = "mailto:irena.costa@gmail.com">irena.costa@gmail.com</a>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/irenacosta)](https://github.com/irenacosta)
