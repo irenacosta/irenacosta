@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Irena Costa!
 - 📖 Desenvolvedora Full Stack em formação.
-- 🔭 Interessada em se especializar em Back-End: Java Microservices.
+- 🔭 Interessada em Desenvolvimento Java.
 - 💻 Projeto front-end em andamento: expansão do conceitual e da interface do jogo GNARUS (ver repositório GNARUS)
 - 💻 Projeto back-end em andamento: em breve
 - 📫 Para falar comigo: <a href = "mailto:irena.costa@gmail.com">irena.costa@gmail.com</a>
