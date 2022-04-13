@@ -1,6 +1,8 @@
 ### Olá! Eu sou a Irena Costa!
 - 📖 Estudando Tecnologia em Banco de Dados (Faculdade UnyLeya), 2022 - 2024.
-- 🔭 Desenvolvedora Web Full-Stack em formação (Resilia Educação)
+- 📖 Pós-graduanda em Análise de Dados (Faculdade Digital Descomplica), Especialização, 2022 - 2023.
+- 📖 Pós-graduanda em Big Data e Inteligência Competitiva (Faculdade Digital Descomplica), MBA, 2022 - 2023.
+- 🔭 Desenvolvedora Web Full-Stack em formação (Resilia Educação), dezembro/2021 a junho/2022
 - 📫 Para falar comigo: <a href = "mailto:irena.costa@gmail.com">irena.costa@gmail.com</a>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/irenacosta)](https://github.com/irenacosta)
