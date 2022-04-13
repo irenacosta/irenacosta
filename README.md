@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Irena Costa!
 - 📖 Desenvolvedora Full Stack em formação.
-- 🔭 Estudando Python para Data Analytics.
+- 🔭 Estudando Tecnologia de Banco de Dados (Faculdade UnyLeya), 2022 - 2024.
 - 📫 Para falar comigo: <a href = "mailto:irena.costa@gmail.com">irena.costa@gmail.com</a>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/irenacosta)](https://github.com/irenacosta)
