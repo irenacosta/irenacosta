@@ -3,13 +3,6 @@
 <p align="center"> 👩‍💻 Engenheira de Dados Early Associate - IBM Consulting<br>
  📖 Tecnologia de Banco de Dados (Faculdade UnyLeya), 2022 - 2024.<br> </p>
 
-<div align="center">
-  <img src="https://media.istockphoto.com/vectors/data-analysis-vector-illustration-with-young-woman-sitting-in-front-vector-id1325034866?k=20&m=1325034866&s=612x612&w=0&h=vzbDYZxERWPkGl7U0ejPtSGkgCjlcO0nR_DTkezpEGU=" />
-</div>
-
-###
-<p align="center">🧭 Desenvolvedora Web Full-Stack em formação (Resilia Educação), dezembro/2021 a junho/2022<br>📫 Para falar comigo: <a href = "mailto:irena.costa@gmail.com">irena.costa@gmail.com</a></p>
-
 ###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
@@ -20,6 +13,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
 </div>
+
+<div align="center">
+  <img src="https://media.istockphoto.com/vectors/data-analysis-vector-illustration-with-young-woman-sitting-in-front-vector-id1325034866?k=20&m=1325034866&s=612x612&w=0&h=vzbDYZxERWPkGl7U0ejPtSGkgCjlcO0nR_DTkezpEGU=" />
+</div>
+
+###
+<p align="center">🧭 Desenvolvedora Web Full-Stack em formação (Resilia Educação), dezembro/2021 a junho/2022<br>📫 Para falar comigo: <a href = "mailto:irena.costa@gmail.com">irena.costa@gmail.com</a></p>
+
+
 
 ###
 <div align="center">
