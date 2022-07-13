@@ -19,7 +19,7 @@
 </div>
 
 ###
-<p align="center">🧭 Desenvolvedora Web Full-Stack em formação (Resilia Educação), dezembro/2021 a junho/2022<br>📫 Para falar comigo: <a href = "mailto:irena.costa@gmail.com">irena.costa@gmail.com</a></p>
+<p align="center">🧭 Desenvolvedora Web Full-Stack em formação (Resilia Educação). T15, dezembro/2021 a junho/2022<br>📫 Para falar comigo: <a href = "mailto:irena.costa@gmail.com">irena.costa@gmail.com</a></p>
 
 
 
