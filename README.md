@@ -1,6 +1,6 @@
 ###
 <h2 align="center">Olá! Eu sou a Irena Costa!</h2>
-<p align="center"> 👩‍💻 Engenheira de Dados Early Associate - IBM Consulting<br>
+<p align="center"> 👩‍💻 Cientista de Dados Associate - Estagiária - IBM Consulting<br>
  📖 Tecnologia de Banco de Dados (Faculdade UnyLeya), 2022 - 2024.<br> </p>
 
 ###
