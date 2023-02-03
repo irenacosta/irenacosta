@@ -4,6 +4,7 @@
 
 ###
 <h2 align="center">Hydrate yourself!</h2>
+![](https://media2.giphy.com/media/8b3Q6bF8hLQdwvtFB9/giphy.gif?cid=ecf05e47bgb4owg6ein2a44pjimcjf7p6dr996dp7pf4kjy7&rid=giphy.gif&ct=g)
 
 ###
 <div align="center">
