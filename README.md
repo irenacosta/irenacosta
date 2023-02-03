@@ -1,7 +1,9 @@
+<div align="center">
+  <img src="https://github.com/irenacosta/irenacosta/blob/main/img%20github/banner%20github.png?raw=true" />
+</div>
+
 ###
-<h2 align="center">Olá! Eu sou a Irena Costa!</h2>
-<p align="center"> 👩‍💻 Cientista de Dados Associate - Estagiária - IBM Consulting<br>
- 📖 Tecnologia de Banco de Dados (Faculdade UnyLeya), 2022 - 2024.<br> </p>
+<h2 align="center">Hydrate yourself!</h2>
 
 ###
 <div align="center">
@@ -12,10 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-</div>
-
-<div align="center">
-  <img src="https://media.istockphoto.com/vectors/data-analysis-vector-illustration-with-young-woman-sitting-in-front-vector-id1325034866?k=20&m=1325034866&s=612x612&w=0&h=vzbDYZxERWPkGl7U0ejPtSGkgCjlcO0nR_DTkezpEGU=" />
 </div>
 
 ###
