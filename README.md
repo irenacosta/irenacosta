@@ -3,9 +3,6 @@
 </div>
 
 ###
-<h2 align="center">Hydrate yourself!</h2>
-
-###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
@@ -17,9 +14,11 @@
 </div>
 
 ###
-<p align="center">🧭 Formação em Desenvolvimento Web Full-Stack pela Resilia Educação. T15. Dezembro/2021 a Junho/2022<br>📫 Para falar comigo: <a href = "mailto:irena.costa@gmail.com">irena.costa@gmail.com</a></p>
+<p align="center">💻 Data Science Intern @ IBM | IBM Consulting <br>📚 Database Technologies Graduate Student (2022 - 2024)<br>🤖🎨 Currently working in a side project/research about Machine Learning, Ethics A.I. and Arts<br>🌐 Visit the project at: <a href = "https://macabeana.com.br/imagine">www.macabeana.com.br/imagine</a><br> 📫 Contact me: <a href = "mailto:irena@macabeana.com.br">irena@macabeana.com.br</a><br></p>
 
-
+<div align="center">
+  <img size= 10px src="https://github.com/irenacosta/irenacosta/blob/main/img%20github/hydrate.gif"  />
+</div>
 
 ###
 <div align="center">
