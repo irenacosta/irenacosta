@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=irenacosta&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> 👩🏻 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando os modelos de I.A. que afetam os processos criativos da escrita e das artes visuais.
 - 🎓 &nbsp; Estudando **Tecnologia de Banco de Dados** na <a href="Faculdade UnyLeya">UnyLeya</a>.
