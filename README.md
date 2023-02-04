@@ -47,6 +47,7 @@
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter&logoColor=007ACC)
   ![Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=google-colab&logoColor=007ACC)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=007ACC)
   
