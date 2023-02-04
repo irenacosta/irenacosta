@@ -28,8 +28,8 @@
   <img src="https://user-images.githubusercontent.com/104145773/171375260-c711bda4-ff6d-4693-9a91-b234744f13ad.svg" height="40" width="52" alt="seaborn logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" height="40" width="52" alt="matplotlib logo"  />
   <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" height="40" width="52" alt="plotly logo"  />
- 
-</div>
+ </div>
+<br>
 
 **Utilidades**
 
@@ -48,7 +48,7 @@
   ![Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=google-colab&logoColor=007ACC)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=007ACC)
   
 
 ###
