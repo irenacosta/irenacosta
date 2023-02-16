@@ -10,7 +10,7 @@
 - 🎓 &nbsp; Estudando **Tecnologia de Banco de Dados** na <a href="Faculdade UnyLeya">UnyLeya</a>.
 - 💼 &nbsp; Estagiando como **CIENTISTA DE DADOS** na <a href="IBM CONSULTING">IBM</a>
 - 🌱 &nbsp; Aprendendo mais sobre **MACHINE LEARNING E DEEP LEARNING**.
-- 🤖 &nbsp; Atualmente trabalhando em um projeto pessoal e pesquisa sobre **I.A. ÉTICA E ARTES**
+- 🤖 &nbsp; Atualmente trabalhando em um projeto pessoal e pesquisa sobre **I.A. RESPONSÁVEL, ESCRITA LITERÁRIA E ARTES VISUAIS**
 - 🌐 &nbsp; Visite o projeto em <a href = "https://macabeana.com.br/imagine">www.macabeana.com.br/imagine</a>
 - 📫 &nbsp; Entre em contato <a href = "mailto:irena@macabeana.com.br">irena@macabeana.com.br</a>
 
