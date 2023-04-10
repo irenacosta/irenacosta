@@ -8,8 +8,8 @@
 
 - 🤔 &nbsp; Explorando os modelos de I.A. que afetam os processos criativos da escrita e das artes visuais.
 - 🎓 &nbsp; Estudando **Tecnologia de Banco de Dados** na <a href="Faculdade UnyLeya">UnyLeya</a>.
-- 💼 &nbsp; Estagiando como **CIENTISTA DE DADOS** na <a href="IBM CONSULTING">IBM</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **MACHINE LEARNING E DEEP LEARNING**.
+- 💼 &nbsp; **Estagiária** na <a href="IBM CONSULTING">IBM</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **GENERATIVE AI PROMPT ENGINEERING**.
 - 🤖 &nbsp; Atualmente trabalhando em um projeto pessoal de pesquisa e curadoria sobre **I.A. RESPONSÁVEL, ESCRITA LITERÁRIA E ARTES VISUAIS**.
 - 🌐 &nbsp; O projeto pode ser acompanhado em <a href = "https://macabeana.com.br/imagine">www.macabeana.com.br/imagine</a>
 - 📫 &nbsp; Entre em contato <a href = "mailto:irena@macabeana.com.br">irena@macabeana.com.br</a>
