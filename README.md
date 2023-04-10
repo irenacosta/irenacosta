@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/irenacosta/irenacosta/blob/main/img%20github/banner%20github.png" />
+  <img src="https://github.com/irenacosta/irenacosta/blob/main/img%20github/Gray%20Aesthetic%20Influencer%20Linkedin%20Banner%20(3).png" />
 </div>
 
 ![](https://komarev.com/ghpvc/?username=irenacosta&color=006bed)
